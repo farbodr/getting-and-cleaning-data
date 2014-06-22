@@ -7,6 +7,8 @@ You will find this script in this repo.
 
 This script make an assumption about the location of the data files it needs. To run this script place in the root dir where the (Samsung) data for this project resides. The script assumes the test and train data are in their own folders.
 
+IF YOU CHOSE TO RUN THIS SCRIPT PLEASE ENSURE THAT THE SCRIPT IS IN THE SAMSUNG DATA ROOT FOLDER (UCI HAR Dataset)
+
 To run this script use the source method as shown below:
 
 ```r
