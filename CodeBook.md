@@ -16,12 +16,12 @@ The final tidy data set contains the following columns:
 
 subject -- this is the subject that performed the activty
 activitiy_type -- this the activitiy that was measured. There 6 types of activities. These are:
-+1 WALKING
-+2 WALKING_UPSTAIRS
-+3 WALKING_DOWNSTAIRS
-+4 SITTING
-+5 STANDING
-+6 LAYING
++ 1 WALKING
++ 2 WALKING_UPSTAIRS
++ 3 WALKING_DOWNSTAIRS
++ 4 SITTING
++ 5 STANDING
++ 6 LAYING
 
 The remaining columns are mean to std columns that where included in the original data sets. The content of these columns where not changed.
 
