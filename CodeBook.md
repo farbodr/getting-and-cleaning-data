@@ -12,6 +12,8 @@ The data within test and train folders are devided into X and Y data. The Y data
 
 Once the subject and activity data is appeneded to test and train data the script appends test and train to create a merged file.
 
+The final tidy file contains one row per subject per activity. For each activity there columns that average the results in the original data by subject.
+
 The final tidy data set contains the following columns:
 
 subject -- this is the subject that performed the activty
@@ -23,5 +25,4 @@ activitiy_type -- this the activitiy that was measured. There 6 types of activit
 + 5 STANDING
 + 6 LAYING
 
-The remaining columns are mean to std columns that where included in the original data sets. The content of these columns where not changed.
-
+The remaining columns are average of the mean and std columns that where included in the original data sets. 
